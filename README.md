@@ -1,6 +1,6 @@
 # Scholar Store
 
-#### Project Link: https://dpancha6.github.io/University_Store/
+#### Project Link: https://dpancha6.github.io/university-store/
 
 #### An e-commerce platform for students to purchase merchandise from different universities across the nation.
 
