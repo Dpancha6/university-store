@@ -21,7 +21,7 @@ function Header() {
       <Link to="/" style={{ textDecoration: "none" }}>
         <img src={logo} className="header__logo" alt="logo" />
       </Link>
-      <div className="header__nav" style={{marginRight:"10px"}}>
+      <div className="header__nav" style={{ marginRight: "10px" }}>
         <Link to={!user && "/login"} style={{ textDecoration: "none" }}>
           <div onClick={handleAuthentication} className="header__option">
             {/* user?.email || "Guest" */}
@@ -39,7 +39,7 @@ function Header() {
         <input
           className="header__searchInput"
           type="text"
-          placeholder="Search Here"
+          placeholder="Search here"
         />
         <SearchIcon className="header__searchIcon" />
       </div>

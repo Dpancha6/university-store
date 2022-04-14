@@ -3,17 +3,16 @@
   justify-content: center;
   align-items: center;
   background-color: #131921;
-  padding: 10px;
+  padding: 1rem;
   text-decoration: underline;
   position: relative;
-  bottom: 0;
   color: white;
 }
 
 .footer__logo {
-  width: 100px;
+  width: 10rem;
   object-fit: contain;
-  margin-left: 20px;
+  margin-left: 2rem;
 }
 
 .footer__nav {
@@ -26,11 +25,10 @@
 .footer__option {
   display: flex;
   flex-direction: column;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 0 2rem;
   color: white;
 }
 
 .footer__optionLine {
-  font-size: 14px;
+  font-size: 1.4rem;
 }
