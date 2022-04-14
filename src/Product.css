@@ -1,0 +1,82 @@
+.product {
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-basis: calc(30.33% - 20px);
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  padding: 20px;
+  width: 100%;
+  max-height: 100%;
+  min-width: 100px;
+  background-color: white;
+  z-index: 1;
+  transition: transform 0.2s;
+}
+
+.product:hover {
+  transform: scale(102%);
+}
+
+.product__rating {
+  display: flex;
+  position: relative;
+}
+
+.product__university {
+  position: relative;
+  /* display: flex; */
+  margin-top: 8px;
+  background: #8c1d40;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #ffc627;
+  color: white;
+  transition: transform 0.1s ease-in-out;
+}
+
+.product__university:hover {
+  transform: scale(105%);
+  cursor: pointer;
+}
+
+.product > img {
+  position: relative;
+  max-height: 200px;
+  width: 100%;
+  object-fit: contain;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
+
+.product > button {
+  background: #ffc627;
+  width: 150px;
+  font-size: 16px;
+  position: relative;
+  transition: background-color 0.01s ease-out 10ms;
+  border-radius: 2px;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #8c1d40;
+  color: black;
+  transition: transform 0.1s ease-in-out;
+}
+
+.product > button:hover {
+  transform: scale(105%);
+  cursor: pointer;
+}
+
+.product__price {
+  position: relative;
+  margin-top: 5px;
+}
+
+.product__info {
+  position: relative;
+  height: 100px;
+  margin-bottom: 15px;
+}

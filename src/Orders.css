@@ -1,0 +1,8 @@
+.orders {
+    margin: 20px;
+    background-color: white;
+}
+
+.orders > h1 {
+  padding: 30px 0;
+}

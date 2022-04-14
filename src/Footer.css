@@ -1,0 +1,36 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #131921;
+  padding: 10px;
+  text-decoration: underline;
+  position: relative;
+  bottom: 0;
+  color: white;
+}
+
+.footer__logo {
+  width: 100px;
+  object-fit: contain;
+  margin-left: 20px;
+}
+
+.footer__nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
+.footer__option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
+
+.footer__optionLine {
+  font-size: 14px;
+}
