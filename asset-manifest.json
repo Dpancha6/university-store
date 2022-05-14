@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/university-store/static/css/main.e1213508.css",
-    "main.js": "/university-store/static/js/main.faa3c31d.js",
-    "static/js/787.fa9cb370.chunk.js": "/university-store/static/js/787.fa9cb370.chunk.js",
-    "static/media/ASU_Devil.png": "/university-store/static/media/ASU_Devil.90a115a2610d5b4ca34f.png",
-    "static/media/Arizona_State_University_seal.svg": "/university-store/static/media/Arizona_State_University_seal.93ecde98e2f34871fe8c18bd9ec1c291.svg",
-    "static/media/asu_logo.png": "/university-store/static/media/asu_logo.859cd1201b2a1900374e.png",
-    "index.html": "/university-store/index.html",
-    "main.e1213508.css.map": "/university-store/static/css/main.e1213508.css.map",
-    "main.faa3c31d.js.map": "/university-store/static/js/main.faa3c31d.js.map",
-    "787.fa9cb370.chunk.js.map": "/university-store/static/js/787.fa9cb370.chunk.js.map"
+    "main.css": "/static/css/main.e1213508.css",
+    "main.js": "/static/js/main.c55f27ee.js",
+    "static/js/787.fa9cb370.chunk.js": "/static/js/787.fa9cb370.chunk.js",
+    "static/media/ASU_Devil.png": "/static/media/ASU_Devil.90a115a2610d5b4ca34f.png",
+    "static/media/Arizona_State_University_seal.svg": "/static/media/Arizona_State_University_seal.93ecde98e2f34871fe8c18bd9ec1c291.svg",
+    "static/media/asu_logo.png": "/static/media/asu_logo.859cd1201b2a1900374e.png",
+    "index.html": "/index.html",
+    "main.e1213508.css.map": "/static/css/main.e1213508.css.map",
+    "main.c55f27ee.js.map": "/static/js/main.c55f27ee.js.map",
+    "787.fa9cb370.chunk.js.map": "/static/js/787.fa9cb370.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1213508.css",
-    "static/js/main.faa3c31d.js"
+    "static/js/main.c55f27ee.js"
   ]
 }
