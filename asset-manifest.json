@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.83b626f3.css",
-    "main.js": "/static/js/main.22942449.js",
-    "static/js/787.3982f1c6.chunk.js": "/static/js/787.3982f1c6.chunk.js",
+    "main.css": "/static/css/main.e1213508.css",
+    "main.js": "/static/js/main.a945aad1.js",
+    "static/js/787.b5e88f36.chunk.js": "/static/js/787.b5e88f36.chunk.js",
     "static/media/ASU_Devil.png": "/static/media/ASU_Devil.90a115a2610d5b4ca34f.png",
     "static/media/Arizona_State_University_seal.svg": "/static/media/Arizona_State_University_seal.93ecde98e2f34871fe8c18bd9ec1c291.svg",
     "static/media/asu_logo.png": "/static/media/asu_logo.859cd1201b2a1900374e.png",
     "index.html": "/index.html",
-    "main.83b626f3.css.map": "/static/css/main.83b626f3.css.map",
-    "main.22942449.js.map": "/static/js/main.22942449.js.map",
-    "787.3982f1c6.chunk.js.map": "/static/js/787.3982f1c6.chunk.js.map"
+    "main.e1213508.css.map": "/static/css/main.e1213508.css.map",
+    "main.a945aad1.js.map": "/static/js/main.a945aad1.js.map",
+    "787.b5e88f36.chunk.js.map": "/static/js/787.b5e88f36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83b626f3.css",
-    "static/js/main.22942449.js"
+    "static/css/main.e1213508.css",
+    "static/js/main.a945aad1.js"
   ]
 }
